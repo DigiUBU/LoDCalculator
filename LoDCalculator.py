@@ -14,7 +14,7 @@ bl_info = {
     "location": "Properties > Scene Properties > LoDCalculator",
     "description": "Calculate the level of detail of an object on a scale of 1 to 5. Separate the score between radiometric and geometric fidelity, both on a scale of 1 to 3",
     "warning": "Only the selected object is evaluated. It is necessary that the object is not triangulated for the data to be reliable. Unused materials or textures need to be removed for the data to be reliable.",
-    "doc_url": "",
+    "doc_url": "https://xrailab.es/cases/lod-calculator/#1730711203073-09568c7b-2f57",
     "category": "",
 }
 
